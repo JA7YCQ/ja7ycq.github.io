@@ -35,7 +35,7 @@ h1 {
   font-weight: 700;
 }
 
-h2:before {
+#content h2:before {
   content: '';
   display: block;
   position: absolute;
